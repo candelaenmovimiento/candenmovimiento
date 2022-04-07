@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/candenmovimiento/static/css/main.cd506957.css",
+    "main.js": "/candenmovimiento/static/js/main.d1e621f9.js",
+    "static/media/tecerfoto.jpg": "/candenmovimiento/static/media/tecerfoto.7978b649b7c6fcb09be3.jpg",
+    "static/media/segundafoto.jpg": "/candenmovimiento/static/media/segundafoto.3cb92c252fae9be58d1d.jpg",
+    "static/media/primerfoto.jpg": "/candenmovimiento/static/media/primerfoto.d0d4c5d512ee23c43fdd.jpg",
+    "index.html": "/candenmovimiento/index.html",
+    "main.cd506957.css.map": "/candenmovimiento/static/css/main.cd506957.css.map",
+    "main.d1e621f9.js.map": "/candenmovimiento/static/js/main.d1e621f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd506957.css",
+    "static/js/main.d1e621f9.js"
+  ]
+}
